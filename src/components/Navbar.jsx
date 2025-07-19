@@ -13,7 +13,7 @@ const Navbar = ({ setIsLoggedIn }) => {
 
   return (
     <nav className="navbar">
-      <h2>Fertilizer Inventory</h2>
+      <h2>FieldMate</h2>
       <div className="navbar-left">
         <Link to="/">Dashboard</Link>
         <Link to="/add">Add Product</Link>
