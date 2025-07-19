@@ -1,73 +1,93 @@
-HEAD
-# Getting Started with Create React App
+# 🌾 Fertilizer Inventory Management System
+This is a responsive frontend web application for managing fertilizer stock and sales efficiently. It allows shop owners or warehouse managers to add, sell, and track fertilizer products through a clean and user-friendly dashboard.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🚀 Features
+📦 Add new fertilizer products with quantity and date
 
-## Available Scripts
+💰 Sell products and record sales with customer name and date
 
-In the project directory, you can run:
+📊 Dashboard to display:
 
-### `npm start`
+Total Products
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Total Sales
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Recently Sold Items
 
-### `npm test`
+🔍 View all added products
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔁 Real-time updates using local storage
 
-### `npm run build`
+# 🛠️ Tech Stack
+React.js – For building user interfaces
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+HTML5 + CSS3 – For page structure and styling
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+JavaScript (ES6+) – For logic and interactivity
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+React Router DOM – For page navigation
 
-### `npm run eject`
+LocalStorage – For storing product/sales data
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 📂 Folder Structure
+fertilizer-inventory/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── Dashboard.js
+│   │   ├── AddProduct.js
+│   │   ├── SellProduct.js
+│   │   └── ProductList.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+│       ├── login.css
+│       └── signup.css
+│
+├── package.json
+└── README.md
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 📸 Screenshots
+<img width="1807" height="597" alt="image" src="https://github.com/user-attachments/assets/c5537546-dddc-481d-ba02-556eb0695cc0" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img width="1087" height="580" alt="image" src="https://github.com/user-attachments/assets/61da24db-1e5d-4bed-808f-e45b7fce84bd" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 🧪 How to Run Locally
+## Clone the repo
+git clone https://github.com/your-username/fertilizer-inventory.git
+cd fertilizer-inventory
 
-## Learn More
+## Install dependencies
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Start the app
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Open your browser at http://localhost:3000
 
-### Code Splitting
+# 📤 Deployment
+You can deploy the app using:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+GitHub Pages
 
-### Analyzing the Bundle Size
+Vercel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Netlify
 
-### Making a Progressive Web App
+# 📌 Future Enhancements
+Firebase or backend integration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Export to Excel or PDF
 
-### Advanced Configuration
+Login authentication
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Admin panel
 
-### Deployment
+# 👩‍💻 Author
+## Megha Padsalgi
+Frontend Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# FieldMate
-fb7f46248d133c83d3bf5cf72866228e5ef1e793
