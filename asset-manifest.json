@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fertilizer-inventory/static/css/main.f1092bf4.css",
-    "main.js": "/fertilizer-inventory/static/js/main.a828d93e.js",
+    "main.js": "/fertilizer-inventory/static/js/main.cc7b4da3.js",
     "index.html": "/fertilizer-inventory/index.html",
     "main.f1092bf4.css.map": "/fertilizer-inventory/static/css/main.f1092bf4.css.map",
-    "main.a828d93e.js.map": "/fertilizer-inventory/static/js/main.a828d93e.js.map"
+    "main.cc7b4da3.js.map": "/fertilizer-inventory/static/js/main.cc7b4da3.js.map"
   },
   "entrypoints": [
     "static/css/main.f1092bf4.css",
-    "static/js/main.a828d93e.js"
+    "static/js/main.cc7b4da3.js"
   ]
 }
