@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/megha-1899/fertilizer-inventory/static/css/main.f1092bf4.css",
-    "main.js": "/megha-1899/fertilizer-inventory/static/js/main.94b05089.js",
-    "index.html": "/megha-1899/fertilizer-inventory/index.html",
-    "main.f1092bf4.css.map": "/megha-1899/fertilizer-inventory/static/css/main.f1092bf4.css.map",
-    "main.94b05089.js.map": "/megha-1899/fertilizer-inventory/static/js/main.94b05089.js.map"
+    "main.css": "/fertilizer-inventory/static/css/main.f1092bf4.css",
+    "main.js": "/fertilizer-inventory/static/js/main.a828d93e.js",
+    "index.html": "/fertilizer-inventory/index.html",
+    "main.f1092bf4.css.map": "/fertilizer-inventory/static/css/main.f1092bf4.css.map",
+    "main.a828d93e.js.map": "/fertilizer-inventory/static/js/main.a828d93e.js.map"
   },
   "entrypoints": [
     "static/css/main.f1092bf4.css",
-    "static/js/main.94b05089.js"
+    "static/js/main.a828d93e.js"
   ]
 }
