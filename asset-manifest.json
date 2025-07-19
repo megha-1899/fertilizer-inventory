@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/megha-1899/fertilizer-inventory/static/css/main.f1092bf4.css",
+    "main.js": "/megha-1899/fertilizer-inventory/static/js/main.94b05089.js",
+    "index.html": "/megha-1899/fertilizer-inventory/index.html",
+    "main.f1092bf4.css.map": "/megha-1899/fertilizer-inventory/static/css/main.f1092bf4.css.map",
+    "main.94b05089.js.map": "/megha-1899/fertilizer-inventory/static/js/main.94b05089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1092bf4.css",
+    "static/js/main.94b05089.js"
+  ]
+}
